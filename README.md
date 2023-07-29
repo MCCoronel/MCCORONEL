@@ -25,6 +25,10 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
+[![Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png
+)](https://github.com/MCCoronel/MCCORONEL) 
+
+
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=[https://github.com/MCCoronel/MCCORONEL](https://github.com/MCCoronel/MCCORONEL))](https://github.com/MCCoronel/MCCORONEL) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL)

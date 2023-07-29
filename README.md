@@ -2,41 +2,85 @@
     
   ## Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Maria Celeste Coronel a Full Stack Developer from Argentina.
+### <div align="center">I'm Maria Celeste Coronel, a full-time full-stack developer 👨‍💻 🚀</div>  
+ 
+### ☑️Un poco sobre mi🙋🏾‍♀️:
+Soy una programadora entusiasta, incursionando en el mundo tecnológico. En este repositorio, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.
 
-<a href="www.linkedin.com/in/mcelestecrnl">
-  <img align="left" alt="Maria Celeste Coronel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+Desde el inicio de mi carrera en Ingeniería en Alimentos, siempre he sentido una profunda admiración por la tecnología y su poder para transformar el mundo. Esta curiosidad me llevó a explorar el fascinante mundo de la programación, donde descubrí mi verdadera pasión. Desde entonces, he trabajado incansablemente para mejorar mis habilidades y conocimientos en diferentes lenguajes y marcos de trabajo.
+
+☑️Responsabilidad y Compromiso:
+
+La responsabilidad es un valor fundamental en mi vida profesional y personal. Mi ética de trabajo se refleja en mi dedicación para cumplir con los plazos y objetivos establecidos en cada proyecto. Siempre me esfuerzo por escribir un código limpio, bien documentado para facilitar la colaboración con otros desarrolladores y asegurar que mis contribuciones sean sostenibles a largo plazo.
+
+☑️¿Por qué trabajar conmigo?:
+
+Mi enfoque responsable y mi habilidad para trabajar en equipo hacen que sea una candidata ideal para cualquier proyecto tecnológico. Mi experiencia en la industria de alimentos me brinda una perspectiva única y versátil para abordar distintos desafios
+
+Estoy emocionada por seguir creciendo como profesional y enfrentar nuevos desafíos en el campo de la tecnología. Siempre estoy abierta a colaboraciones y oportunidades para aprender en equipo.
+
+¡Gracias por visitar mi repositorio y espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos!
+
+☑️Mi perfil profesional 💻:
+Estoy en constante estudio, me gusta aprender nuevas tecnologías y mejorar las que ya conozco, así como ayudar y/o enseñar con los conocimientos que tengo. Creo que lo más hermoso de este campo es que está en constante evolución y siempre hay algo más que aprender.📚📖    
+
+<br/>  
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%"> 
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/MCCoronel" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/mcelestecrnl/">
-  <img align="left" alt="Maria Celeste Coronel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://linkedin.com/in/www.linkedin.com/in/mcelestecrnl" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-<br />
-<br />
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<a href="https://instagram.com/https://www.instagram.com/mcelestecrnl/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
-### 👨‍💻 Languages and Tools
 
-<br />
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https:://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
-[![Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png
-)](https://github.com/MCCoronel/MCCORONEL) 
-
-
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=[https://github.com/MCCoronel/MCCORONEL](https://github.com/MCCoronel/MCCORONEL))](https://github.com/MCCoronel/MCCORONEL) 
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/MCCoronel/MCCORONEL)](https://github.com/MCCoronel/MCCORONEL) 
-
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
+<br/>

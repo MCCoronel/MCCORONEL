@@ -6,14 +6,14 @@
 <h2>☑️Un poco sobre mi🙋🏾‍♀️:</h2>
 Me encuentro finalizando la carrera de ingenieria en alimentos aunque siempre he sentido una profunda admiración por la tecnología y su poder para transformar el mundo. Esta curiosidad me llevó a explorar el mundo de la programación, donde descubrí mi verdadera pasión. Desde entonces, he trabajado incansablemente para mejorar mis habilidades y conocimientos en diferentes lenguajes y marcos de trabajo. 
 
-Soy una programadora entusiasta, incursionando en el mundo IT. En esta cuenta, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.
-
 <h2>☑️Responsabilidad y Compromiso:</h2>
 
 La responsabilidad es un valor fundamental en mi vida profesional y personal. Mi ética de trabajo se refleja en mi dedicación para cumplir con los plazos y objetivos establecidos en cada proyecto. Siempre me esfuerzo por escribir un código limpio, bien documentado para facilitar la colaboración con otros desarrolladores y asegurar que mis contribuciones sean sostenibles a largo plazo.
 
 <h2>☑️Mi perfil profesional 💻:</h2>
-Estoy en constante estudio, me gusta aprender nuevas tecnologías y mejorar las que ya conozco, así como ayudar y/o enseñar con los conocimientos que tengo. Creo que lo más hermoso de este campo es que está en constante evolución y siempre hay algo más que aprender.📚📖  
+<p></p>Estoy en constante estudio, me gusta aprender nuevas tecnologías y mejorar las que ya conozco, así como ayudar y/o enseñar con los conocimientos que tengo. Creo que lo más hermoso de este campo es que está en constante evolución y siempre hay algo más que aprender.📚📖 </p>
+
+<p>Soy una programadora entusiasta, incursionando en el mundo IT. En esta cuenta, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.</p>
 
 <h2>☑️¿Por qué trabajar conmigo?:</h2>
 

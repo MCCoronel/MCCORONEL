@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Maria Celeste Coronel, a full-time full-stack developer 👨‍💻 🚀</div>  
  
-### ☑️Un poco sobre mi🙋🏾‍♀️:
+### <h2>☑️Un poco sobre mi🙋🏾‍♀️:</h2>
 Soy una programadora entusiasta, incursionando en el mundo tecnológico. En este repositorio, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.
 
 Desde el inicio de mi carrera en Ingeniería en Alimentos, siempre he sentido una profunda admiración por la tecnología y su poder para transformar el mundo. Esta curiosidad me llevó a explorar el fascinante mundo de la programación, donde descubrí mi verdadera pasión. Desde entonces, he trabajado incansablemente para mejorar mis habilidades y conocimientos en diferentes lenguajes y marcos de trabajo.

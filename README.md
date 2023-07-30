@@ -2,33 +2,31 @@
   ## <h1>Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h1> 
 
 <img src="https://github.com/MCCoronel/MCCORONEL/blob/main/github-header-image%20(4).png" width="990px">
-
-
  
-<h4>☑️Un poco sobre mi🙋🏾‍♀️:</h4>
-Soy una programadora entusiasta, incursionando en el mundo tecnológico. En este repositorio, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.
+<h2>☑️Un poco sobre mi🙋🏾‍♀️:</h2>
+Me encuentro finalizando la carrera de ingenieria en alimentos aunque siempre he sentido una profunda admiración por la tecnología y su poder para transformar el mundo. Esta curiosidad me llevó a explorar el mundo de la programación, donde descubrí mi verdadera pasión. Desde entonces, he trabajado incansablemente para mejorar mis habilidades y conocimientos en diferentes lenguajes y marcos de trabajo. 
 
-Desde el inicio de mi carrera en Ingeniería en Alimentos, siempre he sentido una profunda admiración por la tecnología y su poder para transformar el mundo. Esta curiosidad me llevó a explorar el fascinante mundo de la programación, donde descubrí mi verdadera pasión. Desde entonces, he trabajado incansablemente para mejorar mis habilidades y conocimientos en diferentes lenguajes y marcos de trabajo.
+Soy una programadora entusiasta, incursionando en el mundo IT. En esta cuenta, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.
 
-<h4>☑️Responsabilidad y Compromiso:</h4>
+<h2>☑️Responsabilidad y Compromiso:</h2>
 
 La responsabilidad es un valor fundamental en mi vida profesional y personal. Mi ética de trabajo se refleja en mi dedicación para cumplir con los plazos y objetivos establecidos en cada proyecto. Siempre me esfuerzo por escribir un código limpio, bien documentado para facilitar la colaboración con otros desarrolladores y asegurar que mis contribuciones sean sostenibles a largo plazo.
 
-<h4>☑️¿Por qué trabajar conmigo?:</h4>
+<h2>☑️Mi perfil profesional 💻:</h2>
+Estoy en constante estudio, me gusta aprender nuevas tecnologías y mejorar las que ya conozco, así como ayudar y/o enseñar con los conocimientos que tengo. Creo que lo más hermoso de este campo es que está en constante evolución y siempre hay algo más que aprender.📚📖  
+
+<h2>☑️¿Por qué trabajar conmigo?:</h2>
 
 Mi enfoque responsable y mi habilidad para trabajar en equipo hacen que sea una candidata ideal para cualquier proyecto tecnológico. Mi experiencia en la industria de alimentos me brinda una perspectiva única y versátil para abordar distintos desafios
 
 Estoy emocionada por seguir creciendo como profesional y enfrentar nuevos desafíos en el campo de la tecnología. Siempre estoy abierta a colaboraciones y oportunidades para aprender en equipo.
 
-¡Gracias por visitar mi repositorio y espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos!
-
-<h4>☑️Mi perfil profesional 💻:</h4>
-Estoy en constante estudio, me gusta aprender nuevas tecnologías y mejorar las que ya conozco, así como ayudar y/o enseñar con los conocimientos que tengo. Creo que lo más hermoso de este campo es que está en constante evolución y siempre hay algo más que aprender.📚📖    
+¡Gracias por visitar mi repositorio y espero que disfrutes explorando mis proyectos tanto como yo disfruté creándolos!  
 
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%"> 
+<table><tr><td valign="top" width="40%"> 
 
 ### Frontend  
 <div align="center">  

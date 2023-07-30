@@ -1,8 +1,11 @@
 
-    
   ## <h1>Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 ### <h2 align="center">I'm Maria Celeste Coronel, a full-time full-stack developer 👨‍💻 🚀</h2>  
+
+![Header](./your-header-image-name.png)
+
+
  
 <h4>☑️Un poco sobre mi🙋🏾‍♀️:</h4>
 Soy una programadora entusiasta, incursionando en el mundo tecnológico. En este repositorio, encontrarás una colección de proyectos que reflejan mi amor por el código y mi compromiso con cada línea de código que escribo.

@@ -3,7 +3,7 @@
 
 ### <h2 align="center">I'm Maria Celeste Coronel, a full-stack developer 👨‍💻 🚀</h2>  
 
-<img src="https://github.com/MCCoronel/MCCORONEL/blob/main/github-header-image.png" width="900px">
+<img src="https://github.com/MCCoronel/MCCORONEL/blob/main/github-header-image.png" width="20em">
 
 
  

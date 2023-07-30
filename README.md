@@ -1,6 +1,6 @@
 
     
-  ## <h1>Hello world !</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  ## <h1>Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 ### <h2 align="center">I'm Maria Celeste Coronel, a full-time full-stack developer 👨‍💻 🚀</h2>  
  

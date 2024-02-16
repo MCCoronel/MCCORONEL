@@ -58,7 +58,6 @@ Dato: Me encuentro finalizando la carrera de ingenieria en alimentos.
 <br/>  
 
 
-<table><tr><td valign="top" width="40%"> 
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/MCCoronel" target="_blank">

@@ -1,7 +1,10 @@
 
   ## <h1>Hello world ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h1> 
 
-<img src="https://github.com/MCCoronel/MCCORONEL/blob/main/github-header-image%20(4).png" width="990px">
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenid@+a+mi+perfil+de+Github"></a>
+</p>
+<Br>
  
 <h2>☑️Un poco sobre mi🙋🏾‍♀️:</h2>
 Me encuentro finalizando la carrera de ingenieria en alimentos aunque siempre he sentido una profunda admiración por la tecnología y su poder para transformar el mundo. Esta curiosidad me llevó a explorar el mundo de la programación, donde descubrí mi verdadera pasión. Desde entonces, he trabajado incansablemente para mejorar mis habilidades y conocimientos en diferentes lenguajes y marcos de trabajo. 

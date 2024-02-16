@@ -22,7 +22,7 @@ Dato: Me encuentro finalizando la carrera de ingenieria en alimentos.
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="40%"> 
+
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -52,6 +52,6 @@ Dato: Me encuentro finalizando la carrera de ingenieria en alimentos.
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
